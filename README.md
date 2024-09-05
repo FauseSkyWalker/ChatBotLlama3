@@ -16,8 +16,8 @@ Este repositório contém o código-fonte de um chatbot desenvolvido utilizando 
 - **Bibliotecas necessárias**: 
   - `torch`
   - `transformers`
-  - `flask` (se estiver usando uma API web)
-  - `requests` (para realizar chamadas de API)
+  - `gradio` 
+  - `python-dotenv`
   
   Instale as dependências usando:
   ```bash
